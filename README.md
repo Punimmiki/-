@@ -15,6 +15,9 @@
 
 # POSTER
 
+![Poster เครื่องตรวจจับเปลวไฟ](https://github.com/user-attachments/assets/21fd0d9a-5527-4cb2-b8b2-a79cddf74e95)
+
+
 # Library ที่ใช้งาน
 ```cpp
 #include <TridentTD_LineNotify.h>  // สำหรับการแจ้งเตือนผ่าน Line Notify
