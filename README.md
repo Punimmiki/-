@@ -7,6 +7,7 @@
 # อุปกรณ์ที่ใช้งาน
 * Nodemcu V.2
 ![image](https://inex.co.th/home/wp-content/uploads/2020/07/node-mcuv2-001.jpg)
+
 * Sensor Infrared IR Flame Detector
 ![image](https://o.lnwfile.com/_/o/_raw/8w/un/73.jpg)
 
@@ -18,3 +19,12 @@
 ```cpp
 #include <TridentTD_LineNotify.h>  // สำหรับการแจ้งเตือนผ่าน Line Notify
 #include <ESP8266WiFi.h>           // สำหรับการเชื่อมต่อ WiFi ของ ESP8266
+
+# การตั้งค่าตัวแปรและ Pin
+```cpp
+#define SSID        "ชื่อ WiFi ของคุณ"      // ชื่อเครือข่าย WiFi
+#define PASSWORD    "รหัสผ่าน WiFi"         // รหัสผ่าน WiFi
+#define LINE_TOKEN  "โทเค็นของ Line Notify"  // Token สำหรับการแจ้งเตือนผ่าน Line
+
+const int SensorPin = D2;  // กำหนดพินเชื่อมต่อกับเซ็นเซอร์
+
