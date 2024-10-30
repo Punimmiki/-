@@ -5,4 +5,16 @@
   โปรเจคแจ้งเตือนไฟไหม้ผ่าน Line Notify ด้วย NodeMCU ESP8266 และเซ็นเซอร์ตรวจจับควันและเปลวไฟนี้ มีวัตถุประสงค์เพื่อสร้างระบบแจ้งเตือนความปลอดภัยภายในบ้านที่ใช้งานง่ายและประหยัดพลังงาน โครงการนี้ออกแบบมาเพื่อให้นักเรียนและผู้ที่เริ่มต้นสามารถเรียนรู้พื้นฐานการเขียนโปรแกรมและการเชื่อมต่ออุปกรณ์ IoT ได้ โดย NodeMCU จะตรวจจับเปลวไฟหรือควันผ่านเซ็นเซอร์และแจ้งเตือนไปยัง Line ทันทีเมื่อพบอันตราย เพิ่มความสะดวกสบายและความปลอดภัยภายในบ้าน โดยจะมีอุปกรณ์ที่ใช้งานใน Project ดังกล่าวทั้งหมดดังนี้
 
 # อุปกรณ์ที่ใช้งาน
-![image](https://inex.co.th/home/wp-content/uploads/2020/07/node-mcuv2-001.jpg) 
+* Nodemcu V.2
+![image](https://inex.co.th/home/wp-content/uploads/2020/07/node-mcuv2-001.jpg)
+* Sensor Infrared IR Flame Detector
+![image](https://o.lnwfile.com/_/o/_raw/8w/un/73.jpg)
+
+# VDO สาธิตการใช้งานโปรเจค
+
+# POSTER
+
+# Library ที่ใช้งาน
+```cpp
+#include <TridentTD_LineNotify.h>  // สำหรับการแจ้งเตือนผ่าน Line Notify
+#include <ESP8266WiFi.h>           // สำหรับการเชื่อมต่อ WiFi ของ ESP8266
