@@ -6,10 +6,10 @@
 
 # อุปกรณ์ที่ใช้งาน
 * Nodemcu V.2
-![image](https://inex.co.th/home/wp-content/uploads/2020/07/node-mcuv2-001.jpg)
+>![image](https://inex.co.th/home/wp-content/uploads/2020/07/node-mcuv2-001.jpg)
 
 * Sensor Infrared IR Flame Detector
-![image](https://o.lnwfile.com/_/o/_raw/8w/un/73.jpg)
+>![image](https://o.lnwfile.com/_/o/_raw/8w/un/73.jpg)
 
 # VDO สาธิตการใช้งานโปรเจค
 
