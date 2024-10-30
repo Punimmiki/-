@@ -12,9 +12,10 @@
 >![image](https://o.lnwfile.com/_/o/_raw/8w/un/73.jpg)
 
 # VDO สาธิตการใช้งานโปรเจค
+[Video]()
+
 
 # POSTER
-
 ![Poster เครื่องตรวจจับเปลวไฟ](https://github.com/user-attachments/assets/21fd0d9a-5527-4cb2-b8b2-a79cddf74e95)
 [Poster](https://github.com/Punimmiki/-/blob/main/Poster/Poster%20%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A7%E0%B9%84%E0%B8%9F%20pdf.pdf)
 
