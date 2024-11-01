@@ -12,7 +12,7 @@
 >![image](https://o.lnwfile.com/_/o/_raw/8w/un/73.jpg)
 
 # VDO สาธิตการใช้งานโปรเจค
-[Video]()
+[Video](https://www.youtube.com/watch?v=8GmCTsqaVTw)
 
 
 # POSTER
